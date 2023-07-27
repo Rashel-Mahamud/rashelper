@@ -1,0 +1,46 @@
+body{
+    background-color: rgb(43, 226, 61);
+    
+}
+p{
+    color: red;
+}
+.class1{
+    background-image: url("download.png") 300px 350px;
+    background-repeat: no-repeat;
+    background-position: center center;
+   border-color: black darkgoldenrod;
+}
+.class2{
+    background-image: url("download.png");
+    background-repeat: repeat-x;
+    height: 400px;
+    width: 100%;
+}
+.class3{
+    background-image: url("download.png");
+    background-repeat: repeat-y ;
+   
+}
+.class4
+
+.class1 p{
+    color: aquamarine;
+}
+.class1 h1{
+    color: blanchedalmond;
+}
+.class4 h1{
+    border-style: dashed;
+    border-width: 6px red;
+
+}
+.class4{
+    border-style: dashed dotted solid;
+ border-width: 7px;
+ border-color: black red blueviolet white;
+}
+h3{
+ border: solid;
+ border-radius: 17px;
+}
